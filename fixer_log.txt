@@ -1,0 +1,243 @@
+2025-06-26 11:20:45,519 INFO: Would apply: ebay_visual_metadata.csv \u2192 ebay_visual_metadata.csv
+2025-06-26 11:20:45,521 INFO: Would apply: generate_master_metadata.py \u2192 generate_master_metadata.py
+2025-06-26 11:20:45,521 INFO: Would apply: log_ebay_metadata.py \u2192 log_ebay_metadata.py
+2025-06-26 11:20:45,522 INFO: Would apply: log_ebay_recursive.py \u2192 log_ebay_recursive.py
+2025-06-26 11:20:45,522 INFO: Would apply: log_photos_to_csv.py \u2192 log_photos_to_csv.py
+2025-06-26 11:20:45,522 INFO: Would apply: manual_metadata.csv \u2192 manual_metadata.csv
+2025-06-26 11:20:45,522 INFO: Would apply: master_metadata.csv \u2192 master_metadata.csv
+2025-06-26 11:20:45,523 INFO: Would apply: merged_metadata.csv \u2192 merged_metadata.csv
+2025-06-26 11:20:45,523 INFO: Would apply: merge_metadata.py \u2192 merge_metadata.py
+2025-06-26 11:20:45,523 INFO: Would apply: read_metadata.py \u2192 read_metadata.py
+2025-06-26 11:20:45,523 INFO: Would apply: test_path.py \u2192 test_path.py
+2025-06-26 11:20:45,524 INFO: Would apply: test_path_debug.py \u2192 test_path_debug.py
+2025-06-26 11:20:45,524 INFO: Would apply: validator_log.txt \u2192 validator_log.txt
+2025-06-29 13:55:11,697 INFO: Applying: BA4592-311_back_1.jpg \u2192 ba4592_311_back_1.jpg
+2025-06-29 13:55:11,699 WARNING: Missing file: BA4592-311_back_1.jpg
+2025-06-29 13:55:11,700 INFO: Applying: BA4592-311_front_1.jpg \u2192 ba4592_311_front_1.jpg
+2025-06-29 13:55:11,700 WARNING: Missing file: BA4592-311_front_1.jpg
+2025-06-29 13:55:11,700 INFO: Applying: BA4592-311_tag_1.jpg \u2192 ba4592_311_tag_1.jpg
+2025-06-29 13:55:11,700 WARNING: Missing file: BA4592-311_tag_1.jpg
+2025-06-29 13:55:11,701 INFO: Applying: s-l1600 (24).jpg \u2192 s_l1600_(24).jpg
+2025-06-29 13:55:11,701 WARNING: Missing file: s-l1600 (24).jpg
+2025-06-29 13:55:11,701 INFO: Applying: BA4592-641_back_1.jpg \u2192 ba4592_641_back_1.jpg
+2025-06-29 13:55:11,701 WARNING: Missing file: BA4592-641_back_1.jpg
+2025-06-29 13:55:11,701 INFO: Applying: BA4592-641_front_1.jpg \u2192 ba4592_641_front_1.jpg
+2025-06-29 13:55:11,702 WARNING: Missing file: BA4592-641_front_1.jpg
+2025-06-29 13:55:11,702 INFO: Applying: BA4592-641_int_1.jpg \u2192 ba4592_641_int_1.jpg
+2025-06-29 13:55:11,702 WARNING: Missing file: BA4592-641_int_1.jpg
+2025-06-29 13:55:11,702 INFO: Applying: BA4592-641_tag_1.jpg \u2192 ba4592_641_tag_1.jpg
+2025-06-29 13:55:11,702 WARNING: Missing file: BA4592-641_tag_1.jpg
+2025-06-29 13:55:11,702 INFO: Applying: BA4592-462_back_1.jpg \u2192 ba4592_462_back_1.jpg
+2025-06-29 13:55:11,703 WARNING: Missing file: BA4592-462_back_1.jpg
+2025-06-29 13:55:11,703 INFO: Applying: BA4592-462_front_1.jpg \u2192 ba4592_462_front_1.jpg
+2025-06-29 13:55:11,703 WARNING: Missing file: BA4592-462_front_1.jpg
+2025-06-29 13:55:11,703 INFO: Applying: BA4592-462_tag_1.jpg \u2192 ba4592_462_tag_1.jpg
+2025-06-29 13:55:11,703 WARNING: Missing file: BA4592-462_tag_1.jpg
+2025-06-29 13:55:11,704 INFO: Applying: BA4138-220_back_1.jpg \u2192 ba4138_220_back_1.jpg
+2025-06-29 13:55:11,704 WARNING: Missing file: BA4138-220_back_1.jpg
+2025-06-29 13:55:11,704 INFO: Applying: BA4138-220_front_1.jpg \u2192 ba4138_220_front_1.jpg
+2025-06-29 13:55:11,704 WARNING: Missing file: BA4138-220_front_1.jpg
+2025-06-29 13:55:11,704 INFO: Applying: BA4138-220_tag1_1.jpg \u2192 ba4138_220_tag1_1.jpg
+2025-06-29 13:55:11,705 WARNING: Missing file: BA4138-220_tag1_1.jpg
+2025-06-29 13:55:11,705 INFO: Applying: BA4138-220_tag2_1.jpg \u2192 ba4138_220_tag2_1.jpg
+2025-06-29 13:55:11,705 WARNING: Missing file: BA4138-220_tag2_1.jpg
+2025-06-29 13:55:11,705 INFO: Applying: ba2037-089_back_1.jpg \u2192 ba2037_089_back_1.jpg
+2025-06-29 13:55:11,705 WARNING: Missing file: ba2037-089_back_1.jpg
+2025-06-29 13:55:11,706 INFO: Applying: ba2449-089_front_1.jpg \u2192 ba2449_089_front_1.jpg
+2025-06-29 13:55:11,706 WARNING: Missing file: ba2449-089_front_1.jpg
+2025-06-29 13:55:11,706 INFO: Applying: þþba2449-089_side_1.jpg \u2192 þþba2449_089_side_1.jpg
+2025-06-29 13:55:11,706 WARNING: Missing file: þþba2449-089_side_1.jpg
+2025-06-29 13:55:11,706 INFO: Applying: BA2037-089_bottom_1.jpg \u2192 ba2037_089_bottom_1.jpg
+2025-06-29 13:55:11,706 WARNING: Missing file: BA2037-089_bottom_1.jpg
+2025-06-29 13:55:11,706 INFO: Applying: BA2037-089_tag1_1.jpg \u2192 ba2037_089_tag1_1.jpg
+2025-06-29 13:55:11,707 WARNING: Missing file: BA2037-089_tag1_1.jpg
+2025-06-29 13:55:11,707 INFO: Applying: BA2037-089_tag2_1.jpg \u2192 ba2037_089_tag2_1.jpg
+2025-06-29 13:55:11,707 WARNING: Missing file: BA2037-089_tag2_1.jpg
+2025-06-29 13:55:11,707 INFO: Applying: þþBA2037-089_back_1.jpg \u2192 þþba2037_089_back_1.jpg
+2025-06-29 13:55:11,707 WARNING: Missing file: þþBA2037-089_back_1.jpg
+2025-06-29 13:55:11,707 INFO: Applying: þþBA2037-089_front_1.jpg \u2192 þþba2037_089_front_1.jpg
+2025-06-29 13:55:11,707 WARNING: Missing file: þþBA2037-089_front_1.jpg
+2025-06-29 13:57:58,204 INFO: Applying: BA4592-311_back_1.jpg \u2192 ba4592-311_back_1.jpg
+2025-06-29 13:57:58,204 WARNING: Missing file: BA4592-311_back_1.jpg
+2025-06-29 13:57:58,204 INFO: Applying: BA4592-311_front_1.jpg \u2192 ba4592-311_front_1.jpg
+2025-06-29 13:57:58,204 WARNING: Missing file: BA4592-311_front_1.jpg
+2025-06-29 13:57:58,205 INFO: Applying: BA4592-311_tag_1.jpg \u2192 ba4592-311_tag_1.jpg
+2025-06-29 13:57:58,205 WARNING: Missing file: BA4592-311_tag_1.jpg
+2025-06-29 13:57:58,205 INFO: Applying: s-l1600 (24).jpg \u2192 s-l1600_(24).jpg
+2025-06-29 13:57:58,205 WARNING: Missing file: s-l1600 (24).jpg
+2025-06-29 13:57:58,206 INFO: Applying: BA4592-641_back_1.jpg \u2192 ba4592-641_back_1.jpg
+2025-06-29 13:57:58,206 WARNING: Missing file: BA4592-641_back_1.jpg
+2025-06-29 13:57:58,206 INFO: Applying: BA4592-641_front_1.jpg \u2192 ba4592-641_front_1.jpg
+2025-06-29 13:57:58,206 WARNING: Missing file: BA4592-641_front_1.jpg
+2025-06-29 13:57:58,206 INFO: Applying: BA4592-641_int_1.jpg \u2192 ba4592-641_int_1.jpg
+2025-06-29 13:57:58,207 WARNING: Missing file: BA4592-641_int_1.jpg
+2025-06-29 13:57:58,207 INFO: Applying: BA4592-641_tag_1.jpg \u2192 ba4592-641_tag_1.jpg
+2025-06-29 13:57:58,207 WARNING: Missing file: BA4592-641_tag_1.jpg
+2025-06-29 13:57:58,207 INFO: Applying: BA4592-462_back_1.jpg \u2192 ba4592-462_back_1.jpg
+2025-06-29 13:57:58,207 WARNING: Missing file: BA4592-462_back_1.jpg
+2025-06-29 13:57:58,207 INFO: Applying: BA4592-462_front_1.jpg \u2192 ba4592-462_front_1.jpg
+2025-06-29 13:57:58,208 WARNING: Missing file: BA4592-462_front_1.jpg
+2025-06-29 13:57:58,208 INFO: Applying: BA4592-462_tag_1.jpg \u2192 ba4592-462_tag_1.jpg
+2025-06-29 13:57:58,208 WARNING: Missing file: BA4592-462_tag_1.jpg
+2025-06-29 13:57:58,208 INFO: Applying: BA4138-220_back_1.jpg \u2192 ba4138-220_back_1.jpg
+2025-06-29 13:57:58,208 WARNING: Missing file: BA4138-220_back_1.jpg
+2025-06-29 13:57:58,208 INFO: Applying: BA4138-220_front_1.jpg \u2192 ba4138-220_front_1.jpg
+2025-06-29 13:57:58,209 WARNING: Missing file: BA4138-220_front_1.jpg
+2025-06-29 13:57:58,209 INFO: Applying: BA4138-220_tag1_1.jpg \u2192 ba4138-220_tag1_1.jpg
+2025-06-29 13:57:58,209 WARNING: Missing file: BA4138-220_tag1_1.jpg
+2025-06-29 13:57:58,209 INFO: Applying: BA4138-220_tag2_1.jpg \u2192 ba4138-220_tag2_1.jpg
+2025-06-29 13:57:58,209 WARNING: Missing file: BA4138-220_tag2_1.jpg
+2025-06-29 13:57:58,209 INFO: Applying: ba2037-089_back_1.jpg \u2192 ba2037-089_back_1.jpg
+2025-06-29 13:57:58,209 WARNING: Missing file: ba2037-089_back_1.jpg
+2025-06-29 13:57:58,210 INFO: Applying: ba2449-089_front_1.jpg \u2192 ba2449-089_front_1.jpg
+2025-06-29 13:57:58,210 WARNING: Missing file: ba2449-089_front_1.jpg
+2025-06-29 13:57:58,210 INFO: Applying: þþba2449-089_side_1.jpg \u2192 þþba2449-089_side_1.jpg
+2025-06-29 13:57:58,210 WARNING: Missing file: þþba2449-089_side_1.jpg
+2025-06-29 13:57:58,210 INFO: Applying: BA2037-089_bottom_1.jpg \u2192 ba2037-089_bottom_1.jpg
+2025-06-29 13:57:58,210 WARNING: Missing file: BA2037-089_bottom_1.jpg
+2025-06-29 13:57:58,210 INFO: Applying: BA2037-089_tag1_1.jpg \u2192 ba2037-089_tag1_1.jpg
+2025-06-29 13:57:58,210 WARNING: Missing file: BA2037-089_tag1_1.jpg
+2025-06-29 13:57:58,210 INFO: Applying: BA2037-089_tag2_1.jpg \u2192 ba2037-089_tag2_1.jpg
+2025-06-29 13:57:58,211 WARNING: Missing file: BA2037-089_tag2_1.jpg
+2025-06-29 13:57:58,211 INFO: Applying: þþBA2037-089_back_1.jpg \u2192 þþba2037-089_back_1.jpg
+2025-06-29 13:57:58,211 WARNING: Missing file: þþBA2037-089_back_1.jpg
+2025-06-29 13:57:58,211 INFO: Applying: þþBA2037-089_front_1.jpg \u2192 þþba2037-089_front_1.jpg
+2025-06-29 13:57:58,211 WARNING: Missing file: þþBA2037-089_front_1.jpg
+2025-06-29 14:01:38,048 INFO: Applying: BA4592-311_back_1.jpg \u2192 ba4592-311_back_1.jpg
+2025-06-29 14:01:38,048 WARNING: Missing file: BA4592-311_back_1.jpg
+2025-06-29 14:01:38,048 INFO: Applying: BA4592-311_front_1.jpg \u2192 ba4592-311_front_1.jpg
+2025-06-29 14:01:38,048 WARNING: Missing file: BA4592-311_front_1.jpg
+2025-06-29 14:01:38,048 INFO: Applying: BA4592-311_tag_1.jpg \u2192 ba4592-311_tag_1.jpg
+2025-06-29 14:01:38,049 WARNING: Missing file: BA4592-311_tag_1.jpg
+2025-06-29 14:01:38,049 INFO: Applying: s-l1600 (24).jpg \u2192 s-l1600_(24).jpg
+2025-06-29 14:01:38,049 WARNING: Missing file: s-l1600 (24).jpg
+2025-06-29 14:01:38,049 INFO: Applying: BA4592-641_back_1.jpg \u2192 ba4592-641_back_1.jpg
+2025-06-29 14:01:38,049 WARNING: Missing file: BA4592-641_back_1.jpg
+2025-06-29 14:01:38,049 INFO: Applying: BA4592-641_front_1.jpg \u2192 ba4592-641_front_1.jpg
+2025-06-29 14:01:38,049 WARNING: Missing file: BA4592-641_front_1.jpg
+2025-06-29 14:01:38,050 INFO: Applying: BA4592-641_int_1.jpg \u2192 ba4592-641_int_1.jpg
+2025-06-29 14:01:38,050 WARNING: Missing file: BA4592-641_int_1.jpg
+2025-06-29 14:01:38,050 INFO: Applying: BA4592-641_tag_1.jpg \u2192 ba4592-641_tag_1.jpg
+2025-06-29 14:01:38,050 WARNING: Missing file: BA4592-641_tag_1.jpg
+2025-06-29 14:01:38,050 INFO: Applying: BA4592-462_back_1.jpg \u2192 ba4592-462_back_1.jpg
+2025-06-29 14:01:38,050 WARNING: Missing file: BA4592-462_back_1.jpg
+2025-06-29 14:01:38,050 INFO: Applying: BA4592-462_front_1.jpg \u2192 ba4592-462_front_1.jpg
+2025-06-29 14:01:38,051 WARNING: Missing file: BA4592-462_front_1.jpg
+2025-06-29 14:01:38,051 INFO: Applying: BA4592-462_tag_1.jpg \u2192 ba4592-462_tag_1.jpg
+2025-06-29 14:01:38,051 WARNING: Missing file: BA4592-462_tag_1.jpg
+2025-06-29 14:01:38,051 INFO: Applying: BA4138-220_back_1.jpg \u2192 ba4138-220_back_1.jpg
+2025-06-29 14:01:38,051 WARNING: Missing file: BA4138-220_back_1.jpg
+2025-06-29 14:01:38,051 INFO: Applying: BA4138-220_front_1.jpg \u2192 ba4138-220_front_1.jpg
+2025-06-29 14:01:38,051 WARNING: Missing file: BA4138-220_front_1.jpg
+2025-06-29 14:01:38,051 INFO: Applying: BA4138-220_tag1_1.jpg \u2192 ba4138-220_tag1_1.jpg
+2025-06-29 14:01:38,051 WARNING: Missing file: BA4138-220_tag1_1.jpg
+2025-06-29 14:01:38,051 INFO: Applying: BA4138-220_tag2_1.jpg \u2192 ba4138-220_tag2_1.jpg
+2025-06-29 14:01:38,051 WARNING: Missing file: BA4138-220_tag2_1.jpg
+2025-06-29 14:01:38,052 INFO: Applying: ba2037-089_back_1.jpg \u2192 ba2037-089_back_1.jpg
+2025-06-29 14:01:38,052 WARNING: Missing file: ba2037-089_back_1.jpg
+2025-06-29 14:01:38,052 INFO: Applying: ba2449-089_front_1.jpg \u2192 ba2449-089_front_1.jpg
+2025-06-29 14:01:38,052 WARNING: Missing file: ba2449-089_front_1.jpg
+2025-06-29 14:01:38,052 INFO: Applying: þþba2449-089_side_1.jpg \u2192 þþba2449-089_side_1.jpg
+2025-06-29 14:01:38,052 WARNING: Missing file: þþba2449-089_side_1.jpg
+2025-06-29 14:01:38,052 INFO: Applying: BA2037-089_bottom_1.jpg \u2192 ba2037-089_bottom_1.jpg
+2025-06-29 14:01:38,052 WARNING: Missing file: BA2037-089_bottom_1.jpg
+2025-06-29 14:01:38,052 INFO: Applying: BA2037-089_tag1_1.jpg \u2192 ba2037-089_tag1_1.jpg
+2025-06-29 14:01:38,053 WARNING: Missing file: BA2037-089_tag1_1.jpg
+2025-06-29 14:01:38,053 INFO: Applying: BA2037-089_tag2_1.jpg \u2192 ba2037-089_tag2_1.jpg
+2025-06-29 14:01:38,053 WARNING: Missing file: BA2037-089_tag2_1.jpg
+2025-06-29 14:01:38,053 INFO: Applying: þþBA2037-089_back_1.jpg \u2192 þþba2037-089_back_1.jpg
+2025-06-29 14:01:38,054 WARNING: Missing file: þþBA2037-089_back_1.jpg
+2025-06-29 14:01:38,054 INFO: Applying: þþBA2037-089_front_1.jpg \u2192 þþba2037-089_front_1.jpg
+2025-06-29 14:01:38,054 WARNING: Missing file: þþBA2037-089_front_1.jpg
+2025-06-29 14:12:00,316 INFO: Applying: 02_Models\þþBA4592-311\Photos\BA4592-311_back_1.jpg \u2192 02_Models\þþBA4592-311\Photos\ba4592-311_back_1.jpg
+2025-06-29 14:12:00,320 INFO: Applying: 02_Models\þþBA4592-311\Photos\BA4592-311_front_1.jpg \u2192 02_Models\þþBA4592-311\Photos\ba4592-311_front_1.jpg
+2025-06-29 14:12:00,323 INFO: Applying: 02_Models\þþBA4592-311\Photos\BA4592-311_tag_1.jpg \u2192 02_Models\þþBA4592-311\Photos\ba4592-311_tag_1.jpg
+2025-06-29 14:12:00,325 INFO: Applying: 02_Models\BA5131-222\bright_blue\Photos\s-l1600 (24).jpg \u2192 02_Models\BA5131-222\bright_blue\Photos\s-l1600_(24).jpg
+2025-06-29 14:12:00,327 INFO: Applying: 02_Models\BA4592-641\Photos\BA4592-641_back_1.jpg \u2192 02_Models\BA4592-641\Photos\ba4592-641_back_1.jpg
+2025-06-29 14:12:00,330 INFO: Applying: 02_Models\BA4592-641\Photos\BA4592-641_front_1.jpg \u2192 02_Models\BA4592-641\Photos\ba4592-641_front_1.jpg
+2025-06-29 14:12:00,332 INFO: Applying: 02_Models\BA4592-641\Photos\BA4592-641_int_1.jpg \u2192 02_Models\BA4592-641\Photos\ba4592-641_int_1.jpg
+2025-06-29 14:12:00,335 INFO: Applying: 02_Models\BA4592-641\Photos\BA4592-641_tag_1.jpg \u2192 02_Models\BA4592-641\Photos\ba4592-641_tag_1.jpg
+2025-06-29 14:12:00,337 INFO: Applying: 02_Models\BA4592-462\bright_blue\Photos\BA4592-462_back_1.jpg \u2192 02_Models\BA4592-462\bright_blue\Photos\ba4592-462_back_1.jpg
+2025-06-29 14:12:00,339 INFO: Applying: 02_Models\BA4592-462\bright_blue\Photos\BA4592-462_front_1.jpg \u2192 02_Models\BA4592-462\bright_blue\Photos\ba4592-462_front_1.jpg
+2025-06-29 14:12:00,341 INFO: Applying: 02_Models\BA4592-462\bright_blue\Photos\BA4592-462_tag_1.jpg \u2192 02_Models\BA4592-462\bright_blue\Photos\ba4592-462_tag_1.jpg
+2025-06-29 14:12:00,345 INFO: Applying: 02_Models\BA4138-220\Photos\BA4138-220_back_1.jpg \u2192 02_Models\BA4138-220\Photos\ba4138-220_back_1.jpg
+2025-06-29 14:12:00,347 INFO: Applying: 02_Models\BA4138-220\Photos\BA4138-220_front_1.jpg \u2192 02_Models\BA4138-220\Photos\ba4138-220_front_1.jpg
+2025-06-29 14:12:00,349 INFO: Applying: 02_Models\BA4138-220\Photos\BA4138-220_tag1_1.jpg \u2192 02_Models\BA4138-220\Photos\ba4138-220_tag1_1.jpg
+2025-06-29 14:12:00,352 INFO: Applying: 02_Models\BA4138-220\Photos\BA4138-220_tag2_1.jpg \u2192 02_Models\BA4138-220\Photos\ba4138-220_tag2_1.jpg
+2025-06-29 14:12:00,354 INFO: Applying: 02_Models\BA2449-089\Photos\ba2037-089_back_1.jpg \u2192 02_Models\BA2449-089\Photos\ba2037-089_back_1.jpg
+2025-06-29 14:12:00,356 INFO: Applying: 02_Models\BA2449-089\Photos\ba2449-089_front_1.jpg \u2192 02_Models\BA2449-089\Photos\ba2449-089_front_1.jpg
+2025-06-29 14:12:00,358 INFO: Applying: 02_Models\BA2449-089\Photos\þþba2449-089_side_1.jpg \u2192 02_Models\BA2449-089\Photos\þþba2449-089_side_1.jpg
+2025-06-29 14:12:00,360 INFO: Applying: 02_Models\BA2037-089\Photos\BA2037-089_bottom_1.jpg \u2192 02_Models\BA2037-089\Photos\ba2037-089_bottom_1.jpg
+2025-06-29 14:12:00,363 INFO: Applying: 02_Models\BA2037-089\Photos\BA2037-089_tag1_1.jpg \u2192 02_Models\BA2037-089\Photos\ba2037-089_tag1_1.jpg
+2025-06-29 14:12:00,365 INFO: Applying: 02_Models\BA2037-089\Photos\BA2037-089_tag2_1.jpg \u2192 02_Models\BA2037-089\Photos\ba2037-089_tag2_1.jpg
+2025-06-29 14:12:00,367 INFO: Applying: 02_Models\BA2037-089\Photos\þþBA2037-089_back_1.jpg \u2192 02_Models\BA2037-089\Photos\þþba2037-089_back_1.jpg
+2025-06-29 14:12:00,369 INFO: Applying: 02_Models\BA2037-089\Photos\þþBA2037-089_front_1.jpg \u2192 02_Models\BA2037-089\Photos\þþba2037-089_front_1.jpg
+2025-06-29 14:37:33,921 INFO: Applying: 02_Models\þþBA4592-311\Photos\ba4592-311_back_1.jpg \u2192 02_Models\þþBA4592-311\Photos\ba4592-311_back_1.jpg
+2025-06-29 14:37:33,923 INFO: Applying: 02_Models\þþBA4592-311\Photos\ba4592-311_front_1.jpg \u2192 02_Models\þþBA4592-311\Photos\ba4592-311_front_1.jpg
+2025-06-29 14:37:33,924 INFO: Applying: 02_Models\þþBA4592-311\Photos\ba4592-311_tag_1.jpg \u2192 02_Models\þþBA4592-311\Photos\ba4592-311_tag_1.jpg
+2025-06-29 14:37:33,927 INFO: Applying: 02_Models\BA5131-222\bright_blue\Photos\s-l1600_(24).jpg \u2192 02_Models\BA5131-222\bright_blue\Photos\s-l1600_(24).jpg
+2025-06-29 14:37:33,929 INFO: Applying: 02_Models\BA4592-641\Photos\ba4592-641_back_1.jpg \u2192 02_Models\BA4592-641\Photos\ba4592-641_back_1.jpg
+2025-06-29 14:37:33,930 INFO: Applying: 02_Models\BA4592-641\Photos\ba4592-641_front_1.jpg \u2192 02_Models\BA4592-641\Photos\ba4592-641_front_1.jpg
+2025-06-29 14:37:33,932 INFO: Applying: 02_Models\BA4592-641\Photos\ba4592-641_int_1.jpg \u2192 02_Models\BA4592-641\Photos\ba4592-641_int_1.jpg
+2025-06-29 14:37:33,934 INFO: Applying: 02_Models\BA4592-641\Photos\ba4592-641_tag_1.jpg \u2192 02_Models\BA4592-641\Photos\ba4592-641_tag_1.jpg
+2025-06-29 14:37:33,936 INFO: Applying: 02_Models\BA4592-462\bright_blue\Photos\ba4592-462_back_1.jpg \u2192 02_Models\BA4592-462\bright_blue\Photos\ba4592-462_back_1.jpg
+2025-06-29 14:37:33,938 INFO: Applying: 02_Models\BA4592-462\bright_blue\Photos\ba4592-462_front_1.jpg \u2192 02_Models\BA4592-462\bright_blue\Photos\ba4592-462_front_1.jpg
+2025-06-29 14:37:33,939 INFO: Applying: 02_Models\BA4592-462\bright_blue\Photos\ba4592-462_tag_1.jpg \u2192 02_Models\BA4592-462\bright_blue\Photos\ba4592-462_tag_1.jpg
+2025-06-29 14:37:33,941 INFO: Applying: 02_Models\BA4138-220\Photos\ba4138-220_back_1.jpg \u2192 02_Models\BA4138-220\Photos\ba4138-220_back_1.jpg
+2025-06-29 14:37:33,943 INFO: Applying: 02_Models\BA4138-220\Photos\ba4138-220_front_1.jpg \u2192 02_Models\BA4138-220\Photos\ba4138-220_front_1.jpg
+2025-06-29 14:37:33,945 INFO: Applying: 02_Models\BA4138-220\Photos\ba4138-220_tag1_1.jpg \u2192 02_Models\BA4138-220\Photos\ba4138-220_tag1_1.jpg
+2025-06-29 14:37:33,946 INFO: Applying: 02_Models\BA4138-220\Photos\ba4138-220_tag2_1.jpg \u2192 02_Models\BA4138-220\Photos\ba4138-220_tag2_1.jpg
+2025-06-29 14:37:33,949 INFO: Applying: 02_Models\BA2449-089\Photos\ba2037-089_back_1.jpg \u2192 02_Models\BA2449-089\Photos\ba2037-089_back_1.jpg
+2025-06-29 14:37:33,950 INFO: Applying: 02_Models\BA2449-089\Photos\ba2449-089_front_1.jpg \u2192 02_Models\BA2449-089\Photos\ba2449-089_front_1.jpg
+2025-06-29 14:37:33,952 INFO: Applying: 02_Models\BA2449-089\Photos\þþba2449-089_side_1.jpg \u2192 02_Models\BA2449-089\Photos\þþba2449-089_side_1.jpg
+2025-06-29 14:37:33,954 INFO: Applying: 02_Models\BA2037-089\Photos\ba2037-089_bottom_1.jpg \u2192 02_Models\BA2037-089\Photos\ba2037-089_bottom_1.jpg
+2025-06-29 14:37:33,956 INFO: Applying: 02_Models\BA2037-089\Photos\ba2037-089_tag1_1.jpg \u2192 02_Models\BA2037-089\Photos\ba2037-089_tag1_1.jpg
+2025-06-29 14:37:33,957 INFO: Applying: 02_Models\BA2037-089\Photos\ba2037-089_tag2_1.jpg \u2192 02_Models\BA2037-089\Photos\ba2037-089_tag2_1.jpg
+2025-06-29 14:37:33,959 INFO: Applying: 02_Models\BA2037-089\Photos\þþba2037-089_back_1.jpg \u2192 02_Models\BA2037-089\Photos\þþba2037-089_back_1.jpg
+2025-06-29 14:37:33,962 INFO: Applying: 02_Models\BA2037-089\Photos\þþba2037-089_front_1.jpg \u2192 02_Models\BA2037-089\Photos\þþba2037-089_front_1.jpg
+2025-06-29 14:42:47,815 INFO: Applying: 02_Models\þþBA4592-311\Photos\ba4592-311_back_1.jpg \u2192 02_Models\þþBA4592-311\Photos\ba4592-311_back_1.jpg
+2025-06-29 14:42:47,818 INFO: Applying: 02_Models\þþBA4592-311\Photos\ba4592-311_front_1.jpg \u2192 02_Models\þþBA4592-311\Photos\ba4592-311_front_1.jpg
+2025-06-29 14:42:47,820 INFO: Applying: 02_Models\þþBA4592-311\Photos\ba4592-311_tag_1.jpg \u2192 02_Models\þþBA4592-311\Photos\ba4592-311_tag_1.jpg
+2025-06-29 14:42:47,822 INFO: Applying: 02_Models\BA5131-222\bright_blue\Photos\s-l1600_(24).jpg \u2192 02_Models\BA5131-222\bright_blue\Photos\s-l1600_(24).jpg
+2025-06-29 14:42:47,824 INFO: Applying: 02_Models\BA4592-641\Photos\ba4592-641_back_1.jpg \u2192 02_Models\BA4592-641\Photos\ba4592-641_back_1.jpg
+2025-06-29 14:42:47,825 INFO: Applying: 02_Models\BA4592-641\Photos\ba4592-641_front_1.jpg \u2192 02_Models\BA4592-641\Photos\ba4592-641_front_1.jpg
+2025-06-29 14:42:47,827 INFO: Applying: 02_Models\BA4592-641\Photos\ba4592-641_int_1.jpg \u2192 02_Models\BA4592-641\Photos\ba4592-641_int_1.jpg
+2025-06-29 14:42:47,829 INFO: Applying: 02_Models\BA4592-641\Photos\ba4592-641_tag_1.jpg \u2192 02_Models\BA4592-641\Photos\ba4592-641_tag_1.jpg
+2025-06-29 14:42:47,830 INFO: Applying: 02_Models\BA4592-462\bright_blue\Photos\ba4592-462_back_1.jpg \u2192 02_Models\BA4592-462\bright_blue\Photos\ba4592-462_back_1.jpg
+2025-06-29 14:42:47,832 INFO: Applying: 02_Models\BA4592-462\bright_blue\Photos\ba4592-462_front_1.jpg \u2192 02_Models\BA4592-462\bright_blue\Photos\ba4592-462_front_1.jpg
+2025-06-29 14:42:47,834 INFO: Applying: 02_Models\BA4592-462\bright_blue\Photos\ba4592-462_tag_1.jpg \u2192 02_Models\BA4592-462\bright_blue\Photos\ba4592-462_tag_1.jpg
+2025-06-29 14:42:47,836 INFO: Applying: 02_Models\BA4138-220\Photos\ba4138-220_back_1.jpg \u2192 02_Models\BA4138-220\Photos\ba4138-220_back_1.jpg
+2025-06-29 14:42:47,838 INFO: Applying: 02_Models\BA4138-220\Photos\ba4138-220_front_1.jpg \u2192 02_Models\BA4138-220\Photos\ba4138-220_front_1.jpg
+2025-06-29 14:42:47,840 INFO: Applying: 02_Models\BA4138-220\Photos\ba4138-220_tag1_1.jpg \u2192 02_Models\BA4138-220\Photos\ba4138-220_tag1_1.jpg
+2025-06-29 14:42:47,842 INFO: Applying: 02_Models\BA4138-220\Photos\ba4138-220_tag2_1.jpg \u2192 02_Models\BA4138-220\Photos\ba4138-220_tag2_1.jpg
+2025-06-29 14:42:47,843 INFO: Applying: 02_Models\BA2449-089\Photos\ba2037-089_back_1.jpg \u2192 02_Models\BA2449-089\Photos\ba2037-089_back_1.jpg
+2025-06-29 14:42:47,845 INFO: Applying: 02_Models\BA2449-089\Photos\ba2449-089_front_1.jpg \u2192 02_Models\BA2449-089\Photos\ba2449-089_front_1.jpg
+2025-06-29 14:42:47,847 INFO: Applying: 02_Models\BA2449-089\Photos\þþba2449-089_side_1.jpg \u2192 02_Models\BA2449-089\Photos\þþba2449-089_side_1.jpg
+2025-06-29 14:42:47,848 INFO: Applying: 02_Models\BA2037-089\Photos\ba2037-089_bottom_1.jpg \u2192 02_Models\BA2037-089\Photos\ba2037-089_bottom_1.jpg
+2025-06-29 14:42:47,850 INFO: Applying: 02_Models\BA2037-089\Photos\ba2037-089_tag1_1.jpg \u2192 02_Models\BA2037-089\Photos\ba2037-089_tag1_1.jpg
+2025-06-29 14:42:47,852 INFO: Applying: 02_Models\BA2037-089\Photos\ba2037-089_tag2_1.jpg \u2192 02_Models\BA2037-089\Photos\ba2037-089_tag2_1.jpg
+2025-06-29 14:42:47,854 INFO: Applying: 02_Models\BA2037-089\Photos\þþba2037-089_back_1.jpg \u2192 02_Models\BA2037-089\Photos\þþba2037-089_back_1.jpg
+2025-06-29 14:42:47,856 INFO: Applying: 02_Models\BA2037-089\Photos\þþba2037-089_front_1.jpg \u2192 02_Models\BA2037-089\Photos\þþba2037-089_front_1.jpg
+2025-06-29 14:46:59,091 INFO: Applying: 02_Models\þþBA4592-311\Photos\ba4592-311_back_1.jpg \u2192 02_Models\þþBA4592-311\Photos\ba4592-311_back_1.jpg
+2025-06-29 14:46:59,094 INFO: Applying: 02_Models\þþBA4592-311\Photos\ba4592-311_front_1.jpg \u2192 02_Models\þþBA4592-311\Photos\ba4592-311_front_1.jpg
+2025-06-29 14:46:59,096 INFO: Applying: 02_Models\þþBA4592-311\Photos\ba4592-311_tag_1.jpg \u2192 02_Models\þþBA4592-311\Photos\ba4592-311_tag_1.jpg
+2025-06-29 14:46:59,098 INFO: Applying: 02_Models\BA5131-222\bright_blue\Photos\s-l1600_(24).jpg \u2192 02_Models\BA5131-222\bright_blue\Photos\s-l1600_(24).jpg
+2025-06-29 14:46:59,100 INFO: Applying: 02_Models\BA4592-641\Photos\ba4592-641_back_1.jpg \u2192 02_Models\BA4592-641\Photos\ba4592-641_back_1.jpg
+2025-06-29 14:46:59,102 INFO: Applying: 02_Models\BA4592-641\Photos\ba4592-641_front_1.jpg \u2192 02_Models\BA4592-641\Photos\ba4592-641_front_1.jpg
+2025-06-29 14:46:59,104 INFO: Applying: 02_Models\BA4592-641\Photos\ba4592-641_int_1.jpg \u2192 02_Models\BA4592-641\Photos\ba4592-641_int_1.jpg
+2025-06-29 14:46:59,106 INFO: Applying: 02_Models\BA4592-641\Photos\ba4592-641_tag_1.jpg \u2192 02_Models\BA4592-641\Photos\ba4592-641_tag_1.jpg
+2025-06-29 14:46:59,108 INFO: Applying: 02_Models\BA4592-462\bright_blue\Photos\ba4592-462_back_1.jpg \u2192 02_Models\BA4592-462\bright_blue\Photos\ba4592-462_back_1.jpg
+2025-06-29 14:46:59,109 INFO: Applying: 02_Models\BA4592-462\bright_blue\Photos\ba4592-462_front_1.jpg \u2192 02_Models\BA4592-462\bright_blue\Photos\ba4592-462_front_1.jpg
+2025-06-29 14:46:59,111 INFO: Applying: 02_Models\BA4592-462\bright_blue\Photos\ba4592-462_tag_1.jpg \u2192 02_Models\BA4592-462\bright_blue\Photos\ba4592-462_tag_1.jpg
+2025-06-29 14:46:59,114 INFO: Applying: 02_Models\BA4138-220\Photos\ba4138-220_back_1.jpg \u2192 02_Models\BA4138-220\Photos\ba4138-220_back_1.jpg
+2025-06-29 14:46:59,116 INFO: Applying: 02_Models\BA4138-220\Photos\ba4138-220_front_1.jpg \u2192 02_Models\BA4138-220\Photos\ba4138-220_front_1.jpg
+2025-06-29 14:46:59,118 INFO: Applying: 02_Models\BA4138-220\Photos\ba4138-220_tag1_1.jpg \u2192 02_Models\BA4138-220\Photos\ba4138-220_tag1_1.jpg
+2025-06-29 14:46:59,120 INFO: Applying: 02_Models\BA4138-220\Photos\ba4138-220_tag2_1.jpg \u2192 02_Models\BA4138-220\Photos\ba4138-220_tag2_1.jpg
+2025-06-29 14:46:59,121 INFO: Applying: 02_Models\BA2449-089\Photos\ba2037-089_back_1.jpg \u2192 02_Models\BA2449-089\Photos\ba2037-089_back_1.jpg
+2025-06-29 14:46:59,123 INFO: Applying: 02_Models\BA2449-089\Photos\ba2449-089_front_1.jpg \u2192 02_Models\BA2449-089\Photos\ba2449-089_front_1.jpg
+2025-06-29 14:46:59,125 INFO: Applying: 02_Models\BA2449-089\Photos\þþba2449-089_side_1.jpg \u2192 02_Models\BA2449-089\Photos\þþba2449-089_side_1.jpg
+2025-06-29 14:46:59,127 INFO: Applying: 02_Models\BA2037-089\Photos\ba2037-089_bottom_1.jpg \u2192 02_Models\BA2037-089\Photos\ba2037-089_bottom_1.jpg
+2025-06-29 14:46:59,129 INFO: Applying: 02_Models\BA2037-089\Photos\ba2037-089_tag1_1.jpg \u2192 02_Models\BA2037-089\Photos\ba2037-089_tag1_1.jpg
+2025-06-29 14:46:59,131 INFO: Applying: 02_Models\BA2037-089\Photos\ba2037-089_tag2_1.jpg \u2192 02_Models\BA2037-089\Photos\ba2037-089_tag2_1.jpg
+2025-06-29 14:46:59,133 INFO: Applying: 02_Models\BA2037-089\Photos\þþba2037-089_back_1.jpg \u2192 02_Models\BA2037-089\Photos\þþba2037-089_back_1.jpg
+2025-06-29 14:46:59,135 INFO: Applying: 02_Models\BA2037-089\Photos\þþba2037-089_front_1.jpg \u2192 02_Models\BA2037-089\Photos\þþba2037-089_front_1.jpg

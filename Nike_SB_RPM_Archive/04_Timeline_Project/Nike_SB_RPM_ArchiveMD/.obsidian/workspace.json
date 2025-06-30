@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "53c96a473a6ae0ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6b761d5d321b5dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6304771ad58e15c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04_Timeline_Project.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "04_Timeline_Project"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9c68f67c48e18d3b",
+    "type": "split",
+    "children": [
+      {
+        "id": "281a6a2cc1a838f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36466ab8957ef375",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c4ce25837b8ee03d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7b7db7728a4a93d9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ecabd4d346590b34",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7a9456ed13daa1e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b291d8b95d8c44b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "04_Timeline_Project.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 04_Timeline_Project"
+            }
+          },
+          {
+            "id": "c1730884a40ee460",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "04_Timeline_Project.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 04_Timeline_Project"
+            }
+          },
+          {
+            "id": "7df9b26bc0e8d48e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "59af01a7a10dc32f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "04_Timeline_Project.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 04_Timeline_Project"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b6304771ad58e15c",
+  "lastOpenFiles": [
+    "04_Timeline_Project.md",
+    "Master_Timeline_Updated.md",
+    "Master_Timeline",
+    "Untitled/Untitled.md",
+    "Welcome.md",
+    "‏‏גליון עבודה של Microsoft Excel חדש.xlsx",
+    "desktop.ini"
+  ]
+}

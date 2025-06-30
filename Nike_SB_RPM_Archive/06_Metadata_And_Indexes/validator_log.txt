@@ -1,0 +1,21 @@
+❌ Bad Filename Format:
+BA2037-089_ebay_hyperpotion_2025-06-20_back_1.jpg
+‏‏BA2037-089_ebay_dunkjunkie_2024-05-12_front_1a.jpg
+‏‏BA2037-089_ebay_hyperpotion_2024-05-12_front_1.jpg
+‏‏BA2037-089_ebay_hyperpotion_2025-06-20_back_2.jpg
+‏‏‏‏BA2037-089_ebay_hyperpotion_2024-05-12_front_1a.jpg
+BA2037-089_ebay_hyperpotion_2025-06-20_back_1.jpg
+BA2449-089_front_1.jpg.jpg
+BA2449-089_side_1.jpg.jpg
+
+⚠️ Not Logged in master_metadata.csv:
+BA2037-089_tag1_1.jpg
+BA2037-089_tag2_1.jpg
+
+❗ Unknown View Types:
+BA2037-089_tag1_1.jpg
+BA2037-089_tag2_1.jpg
+
+📦 Models Missing Required Views:
+BA2037-089: Missing back
+BA2449-089: Missing back, front

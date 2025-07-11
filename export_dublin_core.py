@@ -2,42 +2,46 @@ import csv
 import sys
 from pathlib import Path
 
-base = Path(__file__).parent
-inp = base / "06_Metadata_And_Indexes" / "merged_metadata.csv"
-out = base / "06_Metadata_And_Indexes" / "dublin_core_metadata.csv"
+# --- Configuration Paths ---
+base_dir = Path(__file__).parent
 
+# Input: merged metadata (from merge_metadata.py)
+inp = base_dir / "merged_metadata_final.csv"
+# Output: Berlin Core–formatted CSV
+out = base_dir / "merged_metadata_berlin_core.csv"
+
+# Verify input exists
 if not inp.is_file():
-    sys.exit(f"Missing input file: {inp}")
+    sys.exit(f"Error: Missing input file: {inp}")
 
-# Map our columns to Dublin Core fields
+# --- Berlin Core Field Mapping ---
 dc_map = {
-    'filename': 'dc:identifier',
-    'description': 'dc:description',
-    'subject': 'dc:subject',
-    'coverage': 'dc:coverage',
-    'relation': 'dc:relation',
-    'source': 'dc:source'
+    'style_code'   : 'dc:identifier',   # model code
+    'release_date' : 'dc:date',         # MM/YYYY
+    'source'       : 'dc:description',  # your sale-note
+    'relation'     : 'dc:source',       # your “Precedes…” info
+    'photo_paths'  : 'dc:hasFormat'     # semicolon-separated photo filenames
 }
 
-# Read merged CSV and write DC CSV
-with inp.open("r", newline="", encoding="utf-8") as f:
-    reader = csv.DictReader(f)
-    # Determine extra fields to preserve
-    extras = [c for c in reader.fieldnames if c not in dc_map]
-    # Order: DC fields first, then extras
-    out_fields = [dc_map[c] for c in reader.fieldnames if c in dc_map] + extras
+# Define the exact output column order
+output_fields = [
+    'dc:identifier',
+    'dc:date',
+    'dc:description',
+    'dc:source',
+    'dc:hasFormat'
+]
 
-    with out.open("w", newline="", encoding="utf-8") as w:
-        writer = csv.DictWriter(w, fieldnames=out_fields)
-        writer.writeheader()
-        for row in reader:
-            out_row = {}
-            # Populate DC mapped fields
-            for orig, dc in dc_map.items():
-                out_row[dc] = row.get(orig, "")
-            # Populate extras
-            for c in extras:
-                out_row[c] = row.get(c, "")
-            writer.writerow(out_row)
+# --- Read & Write CSV ---
+with inp.open(newline='', encoding='utf-8') as fin, \
+     out.open('w', newline='', encoding='utf-8') as fout:
+    reader = csv.DictReader(fin)
+    writer = csv.DictWriter(fout, fieldnames=output_fields)
+    writer.writeheader()
 
-print(f"Dublin Core CSV written to {out}")
+    for row in reader:
+        # Map each source column to its DC term
+        out_row = { dc_map[src]: row.get(src, '') for src in dc_map }
+        writer.writerow(out_row)
+
+print(f"✅ Berlin Core export written to: {out}")
